@@ -1,3 +1,5 @@
+# Drop this in %localappdata%\MusicBrainz\Picard\plugins\deezerart
+
 PLUGIN_NAME = "Deezer cover art CUSTOM DEBUG"
 PLUGIN_AUTHOR = "Fabio Forni <livingsilver94>, modified by Vincent"
 PLUGIN_DESCRIPTION = "Fetch cover arts from Deezer, dynamically probing for maximum CDN resolution"
